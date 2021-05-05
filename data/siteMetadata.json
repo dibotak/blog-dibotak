@@ -1,0 +1,14 @@
+{
+  "title": "DiBotak",
+  "author": "Adib Faqih",
+  "headerTitle": "Blog | DiBotak",
+  "description": "Catatan eksperimen",
+  "language": "id-id",
+  "siteUrl": "https://blog.dibotak.com",
+  "siteRepo": "https://github.com/dibotak/dibotak-blog",
+  "image": "/static/images/avatar.png",
+  "socialBanner": "/static/images/twitter-card.png",
+  "email": "adib@dibotak.com",
+  "github": "https://github.com/dibotak",
+  "locale": "en-ID"
+}
