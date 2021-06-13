@@ -1,11 +1,9 @@
 ---
-title: Pindah Platform Blog DiBotak
-date: '2021-05-05'
-tags: ['story']
+title: Eksperimen
+date: '2021-03-12'
+tags: ['hello']
 draft: false
-summary: Pindah dari wordpress ke nextjs.
+summary: Blog ini digunakan untuk mencatat segala macam eksperimen yang saya lakukan di dibotak.com.
 ---
 
-Sebelumnya saya menggunakan wordpress sebagai platform blog ini, namun karena ingin kembali bereksperimen, saya memutuskan untuk memakai static site generator dengan menggunakan nextjs. Nextjs adalah framework react yang menyediakan fitur untuk server side rendering dan static site generator.
-
-Alasan lainnya, mengurangi resource yang dipakai untuk percobaan yang akan datang.
+Blog ini digunakan untuk mencatat segala macam eksperimen yang saya lakukan di dibotak.com.
